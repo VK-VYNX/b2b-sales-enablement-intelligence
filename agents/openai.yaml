@@ -1,0 +1,4 @@
+interface:
+  display_name: "VYNX Industrial Enablement"
+  short_description: "Industrial revenue enablement for manufacturing teams"
+  default_prompt: "Use $b2b-sales-enablement-intelligence to diagnose an industrial or manufacturing sales enablement challenge and recommend a precise action plan for the revenue team."
