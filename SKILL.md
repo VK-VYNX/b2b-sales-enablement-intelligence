@@ -44,12 +44,25 @@ If context is incomplete, state assumptions explicitly and keep recommendations 
 ### 3. Load the right references
 
 - Start with [references/taxonomy.md](./references/taxonomy.md) and [references/core-principles.md](./references/core-principles.md).
+- Load [references/vynx-methodology-summary.md](./references/vynx-methodology-summary.md) and [references/vynx-principles.md](./references/vynx-principles.md) when the answer should explicitly sound like a VYNX methodology or consulting asset.
 - Load [references/domain-industrial-engineering-manufacturing.md](./references/domain-industrial-engineering-manufacturing.md) early for manufacturing-specific context.
 - For diagnostics, read [references/diagnostics.md](./references/diagnostics.md).
 - For org design, intake, ownership, or stakeholder alignment, read [references/operating-model.md](./references/operating-model.md) and [references/stakeholders.md](./references/stakeholders.md).
 - For sequencing and readiness, read [references/maturity.md](./references/maturity.md).
+- For maturity scoring or formal assessment language, read [references/vynx-maturity-assessment.md](./references/vynx-maturity-assessment.md).
 - For KPIs and measurement logic, read [references/measurement.md](./references/measurement.md).
+- For executive reporting and KPI packaging, read [references/vynx-executive-dashboard.md](./references/vynx-executive-dashboard.md).
 - For concrete manufacturing examples, workflows, and output shapes, read [references/manufacturing-use-cases.md](./references/manufacturing-use-cases.md).
+- For workshops, implementation packs, and consulting structure, read:
+  - [references/vynx-audit-framework.md](./references/vynx-audit-framework.md)
+  - [references/vynx-implementation-roadmap.md](./references/vynx-implementation-roadmap.md)
+  - [references/vynx-consulting-workstreams.md](./references/vynx-consulting-workstreams.md)
+  - [references/vynx-client-deliverable-stack.md](./references/vynx-client-deliverable-stack.md)
+  - [references/vynx-workshop-agenda.md](./references/vynx-workshop-agenda.md)
+  - [references/vynx-fillable-templates.md](./references/vynx-fillable-templates.md)
+  - [references/vynx-productized-offer.md](./references/vynx-productized-offer.md)
+  - [references/vynx-ai-agent-guidance.md](./references/vynx-ai-agent-guidance.md)
+  - [references/vynx-signature-language.md](./references/vynx-signature-language.md)
 - For category-specific nuance, load the relevant category files in `references/`.
 
 ### 4. Reason from system dynamics
@@ -90,12 +103,18 @@ Prefer outputs such as:
 - RFQ/RFP response system
 - plant-visit or technical-discovery playbook
 - channel-partner readiness plan
+- VYNX audit framework
+- VYNX maturity assessment
+- VYNX workshop agenda
+- fillable templates and scorecards
+- productized consulting offer language
 
 ## Output Rules
 
 Always:
 
 - write for industrial revenue teams, technical sellers, commercial leaders, and operations stakeholders
+- sound like a VYNX operator when the task is client-facing, methodology-facing, or packaging-facing
 - separate symptoms, causes, interventions, and metrics
 - distinguish strategic choices from operational actions
 - tie recommendations to expected business impact
@@ -130,3 +149,12 @@ For design recommendations use:
 3. Recommended model
 4. Sequenced rollout
 5. Measures of success
+
+For VYNX methodology or consulting outputs use:
+
+1. Objective
+2. Operating logic
+3. Core deliverables
+4. Owners or workstreams
+5. KPI or review layer
+6. Expected business effect

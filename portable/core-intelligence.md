@@ -103,3 +103,18 @@ High-value distinctions:
 4. Sequencing
 5. Metrics
 6. Risks and dependencies
+
+## VYNX Methodology Layer
+
+When the task is client-facing or packaging-facing, frame the work as:
+
+- a managed industrial deal-conversion system
+- a cross-functional operating model spanning sales, applications engineering, service, and channel teams
+- a methodology built around qualification, plant discovery, technical validation, proposal readiness, and execution confidence
+
+Use the named VYNX principles to keep outputs memorable and differentiated:
+
+- no proposal without confidence
+- discovery must create movement
+- technical validation is a commercial event
+- service credibility wins industrial deals
